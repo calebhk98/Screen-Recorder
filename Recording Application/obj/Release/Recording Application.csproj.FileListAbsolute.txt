@@ -1,0 +1,22 @@
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Release\Form1.resx
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Release\Form1.cs
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Release\Form1.Designer.cs
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Release\Recording Application.exe.config
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Release\Recording Application.exe
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Release\Recording Application.pdb
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Release\Microsoft.Expression.Encoder.Api2.dll
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Release\Microsoft.Expression.Encoder.dll
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Release\Microsoft.Expression.Encoder.Types.dll
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Release\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Release\Microsoft.Expression.Encoder.xml
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Release\Microsoft.Expression.Encoder.dll.config
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Release\Microsoft.Expression.Encoder.Api2.xml
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Release\Microsoft.Expression.Encoder.Types.xml
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Release\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Release\Recording_Application.RecordScreen.resources
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Release\Recording_Application.Properties.Resources.resources
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Release\Recording Application.csproj.GenerateResource.cache
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Release\Recording Application.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Release\Recording Application.csproj.CopyComplete
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Release\Recording Application.exe
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Release\Recording Application.pdb

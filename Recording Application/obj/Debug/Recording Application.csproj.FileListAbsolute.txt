@@ -1,0 +1,27 @@
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Recording Application.exe.config
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Recording Application.exe
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Recording Application.pdb
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Debug\Recording_Application.Properties.Resources.resources
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Debug\Recording Application.csproj.GenerateResource.cache
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Debug\Recording Application.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Debug\Recording Application.exe
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Debug\Recording Application.pdb
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Debug\Recording Application.csprojAssemblyReference.cache
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Microsoft.Expression.Encoder.Api2.dll
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Microsoft.Expression.Encoder.dll
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Microsoft.Expression.Encoder.xml
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Microsoft.Expression.Encoder.dll.config
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Microsoft.Expression.Encoder.Api2.xml
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Debug\Recording Application.csproj.CopyComplete
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Debug\Recording_Application.RecordScreen.resources
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Form1.resx
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Form1.cs
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Form1.Designer.cs
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Recording Application.exe.manifest
+C:\Users\caleb\source\repos\Recording Application\Recording Application\bin\Debug\Recording Application.application
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Debug\Recording Application.exe.manifest
+C:\Users\caleb\source\repos\Recording Application\Recording Application\obj\Debug\Recording Application.application
